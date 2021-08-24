@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "live-server": "^1.2.1"
+    "chai": "^4.3.4",
+    "live-server": "^1.2.1",
+    "mocha": "^9.1.0"
   }
 }
